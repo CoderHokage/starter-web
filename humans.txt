@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Abhinaba Roy	abhiroy@mail.mail	@coderhokage
 
 # THANKS
 
